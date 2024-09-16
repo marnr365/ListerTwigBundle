@@ -13,7 +13,7 @@
   "require": {
     "php":                                ">=7.1",
     "symfony/twig-bundle":                "^4.0 || ^5.0 || ^6.0",
-    "marnr365/lister-bundle":                 "^1.0@dev"
+    "marnr365/lister-bundle":                 "^1.0.0"
   },
 
   "require-dev": {
