@@ -1,13 +1,12 @@
 {
-  "name": "povs/lister-twig-bundle",
+  "name": "marnr365/lister-twig-bundle",
   "type": "symfony-bundle",
   "description": "Twig implementation for lister bundle. Provides Twig and Ajax list types for full stack web applications",
   "keywords": ["lister", "list", "twig", "ajax", "symfony", "bundle"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Povilas Margaitis",
-      "homepage": "https://github.com/povs"
+      "name": "Povilas Margaitis"
     }
   ],
 
